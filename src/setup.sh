@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-apt update && apt install -y yacc
+apt update && apt install -y byacc
